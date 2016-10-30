@@ -36,7 +36,6 @@ public class TestMybatis {
 	
 	@Test
 	public void test2() {
-
 		User user = new User();
 		user.setId(11);
 		user.setUserName("bbbb");
