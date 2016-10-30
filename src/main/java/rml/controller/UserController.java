@@ -18,6 +18,7 @@ public class UserController {
 
 	public UserService getUserService() {
 		return userService;
+
 	}
 
 	@Autowired
